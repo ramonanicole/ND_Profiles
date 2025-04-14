@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":672,"text":"When people say autism spectrum,’ it can sound like there’s a straight line—from not very autistic to very autistic. "},{"start":6895,"text":"But that’s not how it works. "},{"start":9408,"text":"Autistic people don't fit neatly on a line.  "},{"start":12024,"text":"No one does. "},{"start":15096,"text":"The spectrum isn’t linear—it’s spiky."},{"start":17536,"text":"That means someone might be super strong in one area, like memory or creativity, "},{"start":21832,"text":"and really struggle in another, like sensory processing or executive functioning."},{"start":26009,"text":"And that mix looks totally different for every autistic person. "},{"start":31264,"text":"Understanding that helps us get past the stereotypes and start seeing the full picture—"},{"start":35856,"text":"seeing people with real strengths, needs, and individuality."},{"start":38946,"text":"Keep learning, stay curious, and keep making space for all kinds of brains. "}]}]};
-    window.globalLoadJsAsset('story_content/6lT81zQeugE_transcripts.js', JSON.stringify(data));
-})();
