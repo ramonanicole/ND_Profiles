@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":673,"text":"These profiles aren't labels - they're tools."},{"start":3337,"text":"Tools that help autistic adults understand themselves better, "},{"start":6281,"text":"and help others support them with more empathy and less judgement."},{"start":10525,"text":"Whether someone was diagnosed in childhood, adulthood, or is just beginning to explore their identity, "},{"start":16429,"text":"Learning about autistic profiles can be a positive step torward self awareness"},{"start":20089,"text":"self-compassion, and healthier relationships."},{"start":23545,"text":"Understanding that helps us get past the stereotypes, and start seeing the full picture."},{"start":28050,"text":"Seeing people with real strengths, needs, and individuality."},{"start":31146,"text":"Keep learning, stay curious, and keep making space for all kinds of brains."}]}]};
+    window.globalLoadJsAsset('story_content/6lT81zQeugE_transcripts.js', JSON.stringify(data));
+})();
